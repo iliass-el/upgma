@@ -1,7 +1,7 @@
 # UPGMA Python Implementation
 
 This is an implementation of upgma (Unweighted Pair Group Method With Arithmetic Mean) hierarchical clustering method in python.  
-The script generate a graphical view of the phylogenetic trees as well as print the tree in Newick format.  
+The script generates a graphical view of the phylogenetic trees as well as print the tree in Newick format.  
 
 # Requirement
 To visualize the phylogenetic tree you should install the ete3 toolkit.  
