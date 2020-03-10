@@ -1,31 +1,17 @@
-# UPGMA(Unweighted Pair Group Method With Arithmetic Mean) Python Implementation
+# UPGMA Python Implementation
 
-This is an implementation of upgma algorithm in python.
-The script generate a visualisation of genetic tree.
-The script print the result in Newick Format
+This is an implementation of upgma (Unweighted Pair Group Method With Arithmetic Mean) hierarchical clustering method in python.
+The script generate a graphical interface of the phylogenetic trees as well as print the result in Newick format.
 
 # Requirement
-Phylogenetic tree (newick) viewer
+To visualize the phylogenetic tree you should install the ete3 toolkit.
+use : pip install ete3
 
-http://etetoolkit.org/treeview/
-Or njplot software
-
-Example 2:
-https://www.youtube.com/watch?v=09eD4A_HxVQ
-
-
-ImportError:
-
-https://github.com/etetoolkit/ete/issues/354
-https://github.com/etetoolkit/ete/issues/195
-
-
-ETE Toolkit tutorial
-http://etetoolkit.org/docs/latest/tutorial/tutorial_drawing.html
-
-
-Numpy, six, PyQt5, ete3
 
 # Examples
 image1
 image2
+
+# Ops
+You can use njplot software to visualise the phylogenetic trees or the online tree viewer of the ETE3 Toolkit through the Newick format.
+[http://etetoolkit.org/treeview/](http://etetoolkit.org/treeview/)
