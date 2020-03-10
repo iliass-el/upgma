@@ -1,10 +1,10 @@
-#UPGMA(Unweighted Pair Group Method With Arithmetic Mean) Python Implementation
+# UPGMA(Unweighted Pair Group Method With Arithmetic Mean) Python Implementation
 
 This is an implementation of upgma algorithm in python.
 The script generate a visualisation of genetic tree.
 The script print the result in Newick Format
 
-#Requirement
+# Requirement
 Phylogenetic tree (newick) viewer
 
 http://etetoolkit.org/treeview/
@@ -26,6 +26,6 @@ http://etetoolkit.org/docs/latest/tutorial/tutorial_drawing.html
 
 Numpy, six, PyQt5, ete3
 
-#Examples
+# Examples
 image1
 image2
